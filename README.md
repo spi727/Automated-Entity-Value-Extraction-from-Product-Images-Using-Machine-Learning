@@ -1,0 +1,1 @@
+# Automated-Entity-Value-Extraction-from-Product-Images-Using-Machine-Learning
